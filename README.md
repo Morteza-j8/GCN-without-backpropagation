@@ -1,4 +1,4 @@
-# Simple TGCN without using backpropagation
+# Simple Graph Convolutional Networks without using backpropagation
 based on : [understanding-graph-convolutional-networks-for-node-classification](https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b)
 
 Result:
